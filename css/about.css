@@ -1,0 +1,40 @@
+
+.nav1 {
+    text-align: center;
+    height: auto;
+    background-color:rgb(61, 44, 44)
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+}
+body{
+    color:white;
+    margin:10px;
+}
+ol li::marker{
+    font-weight:bold;
+}
+.special{
+    text-align: center;
+}
+.back{
+    width:auto;
+    height:40px;
+    background-color:rgb(167, 154, 154);
+    text-align:center;
+    font-weight:bold;
+     margin-top: 20px;
+     margin-bottom:20px;
+     font-size: larger;
+     
+}
+a:hover{
+    color:hotpink;
+
+}
+    a:active{
+        color:blue;
+    }
+
